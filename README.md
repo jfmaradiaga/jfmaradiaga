@@ -2,8 +2,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@jfmaradiagaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jfmaradiagaa)](https://twitter.com/jfmaradiagaa) [![Linkedin Badge](https://img.shields.io/badge/-JulioMaradiaga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jfmaradiaga//)](https://www.linkedin.com/in/jfmaradiaga/)
 
-Nice to meet you! I'm currently studying and working as a DBA and Sysadmin at SanServices.
-I've previously worked on Banco Ficohsa as an Oracle DBA and AIX system administrator.
+Nice to meet you! I'm currently working as an Oracle DBA and AIX system administrator at Banco Ficohsa, I'm also studying programming languages like Pythion, HTML, PHP.
+I've previously worked on Banco Ficohsa as a Junior implementing officer  and 
 Nowadays, I'm working on Sanservices as a Sysadmin.
 
 ## Skills
